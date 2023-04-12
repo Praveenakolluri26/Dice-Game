@@ -6,7 +6,7 @@ This online two player game consists of two dice numbered from 1 to 6. Everytime
 
 ## Files Used 📄
 
-- dicee.html
+- index.html
 - index.js
 - styles.css
 - dice images numberes from 1 to 6 in png format.
