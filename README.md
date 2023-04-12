@@ -17,6 +17,6 @@ VS CODE
 To deploy this project, go to the folder of downloaded files and run
 
 ```bash
-  start dicee.html
+  start index.html
 ```
 The webpage will open in your default browser.
